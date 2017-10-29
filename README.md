@@ -13,4 +13,3 @@ A little python script to uncovering hidden SSIDs
 * [Twitter](https://twitter.com/HackerAlnofalia)
 * [Youtube](https://www.youtube.com/c/HackerAlnofalia)
 * [Tumblr](http://mrkaraly.tumblr.com/)
-* [Github]('#')
